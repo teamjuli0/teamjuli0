@@ -1,6 +1,4 @@
-# #teamjuli0
-
-### Hi there 👋
+<img src='./images/banner.png' style="width:100%; margin:0;">
 
 <!--
 **teamjuli0/teamjuli0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
