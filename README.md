@@ -3,7 +3,9 @@
 🌱 Hello and thank you for stopping by! I'm Julio although I go by Lilo (like Lilo & Stitch, no relation!) and I'm a software developer & tutor currently focusing on improving lives one student at a time! Here you'll find a collection of personal projects as well as neat ideas blossoming into cool applications! Please feel free to share your thoughts, ideas, or feedback by submitting an issue on anything that might catch your attention. Thanks for looking, and please feel free to connect with me on [`LinkedIn`](https://linkedin.com/in/teamjuli0/)
 🌱
 
-[![Lilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+    <img src="images/technologies/learned-technologies.png" alt="learned-technologies" style="height: 50px; padding: 30px 0 0 0"/>
+</p>
 
 <div style="padding-top: 5px">
     <img src="images/technologies/html.png" alt="html" style="height: 21px;"/>
@@ -25,7 +27,6 @@
     <img src="images/technologies/bootstrap.png" alt="bootstrap" style="height: 21px;"/>
     <img src="images/technologies/chrome-extension.png" alt="chrome-extension" style="height: 21px;"/>
 </div>
-    
 
 
 <!--
@@ -39,6 +40,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
